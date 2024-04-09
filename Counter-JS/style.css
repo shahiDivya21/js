@@ -1,0 +1,20 @@
+#add{
+    background-color:blue;
+    color:white;
+    border-radius: 0.5rem;
+}
+
+#subtract{
+    background-color: red;
+    color: white;
+    border-radius: 0.5rem;
+}
+
+#reset{
+    background-color: green;
+    color:white;
+}
+
+.counter_num{
+    
+}
